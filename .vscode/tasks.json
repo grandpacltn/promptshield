@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run Streamlit",
+      "type": "shell",
+      "command": "C:\\Python310\\python.exe -m streamlit run demo.py",
+      "group": "build"
+    }
+  ]
+}
